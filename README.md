@@ -3,7 +3,7 @@ Este projeto analisa os dados de poluição do ar com medições de PM2.5 e PM10
 ## Como usar
 
 - Coloque o arquivo `verso.csv` na mesma pasta do script.
-- Execute o script Python `analise_poluicao.py` para gerar gráficos e estatísticas.
+- Execute o script Python `main.py` para gerar gráficos e estatísticas.
 - O script gera gráficos de pizza e barras para os dados mensais.
 
 ## Estatísticas calculadas
